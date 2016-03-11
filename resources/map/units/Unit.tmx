@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="roguelikeChar_transparent" tilewidth="16" tileheight="16" spacing="1" tilecount="648" columns="54">
+  <image source="../../../../Downloads/roguelike-characters-pack/Spritesheet/roguelikeChar_transparent.png" width="918" height="203"/>
+ </tileset>
+ <layer name="Body" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJzLZWBgAAABuABu
+  </data>
+ </layer>
+ <layer name="Pant" width="1" height="1" offsetx="-1" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJwTYmRgAAAATwAU
+  </data>
+ </layer>
+ <layer name="Clothes" width="1" height="1" offsetx="-1" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJzbwcjAAAAC5wC6
+  </data>
+ </layer>
+ <layer name="Facial" width="1" height="1" offsetx="-1" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJw7wcjAAAADJwDK
+  </data>
+ </layer>
+ <layer name="Hair" width="1" height="1" offsetx="-1" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJz7xMDAAAADzADz
+  </data>
+ </layer>
+ <layer name="Weapon" width="1" height="1" offsetx="-1" offsety="0">
+  <data encoding="base64" compression="zlib">
+   eJwrYGRgAAABxwBy
+  </data>
+ </layer>
+ <layer name="Sheild" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJyLYmBgAAABbABb
+  </data>
+ </layer>
+</map>

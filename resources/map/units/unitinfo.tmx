@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="4" height="6" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="uipack_rpg_sheet" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="../../../../Downloads/uipack-rpg/Spritesheet/uipack_rpg_sheet.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="4" height="6">
+  <data encoding="base64" compression="zlib">
+   eJwzZ2BgsIBiSyAOB2IPKI4EYnckvieavCeaPEh9IxA3A3ELELcBMQBR3wev
+  </data>
+ </layer>
+</map>
